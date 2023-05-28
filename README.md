@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/mxdbwgcxahtp5on4?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-media)
 
-WEB Version 
+WEB Version https://garfy2.github.io/ahj-media/
 
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).
 
